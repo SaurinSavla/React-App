@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "text": "Oats",
+      "quantity": "5",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Chocolate",
+      "quantity": "2",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Apples",
+      "quantity": "1",
+      "reminder": false
+    },
+    {
+      "text": "Milk",
+      "quantity": "4",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
